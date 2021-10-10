@@ -8,8 +8,7 @@ Hello World ! </h1> <hr>
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
-![](http://estruyf-
-github.azurewebsites.net/api/VisitorHit?user=guilhermeberson&repo=guilhermeberson&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=guilhermeberson&repo=guilhermeberson&countColorcountColor)
 
 ### Languages & Tools 🛠  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;![JS](https://img.shields.io/badge/-JS-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
