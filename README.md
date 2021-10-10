@@ -18,11 +18,9 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=guilhermeberson&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeberson&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-
-stats.vercel.app/api/?username=guilhermeberson&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=guilhermeberson&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeberson&hide_border=true)
 
