@@ -4,7 +4,7 @@
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Hello World ! </h1> <hr>
+Welcome to my profile! </h1> <hr>
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
