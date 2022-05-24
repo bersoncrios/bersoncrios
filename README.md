@@ -8,7 +8,7 @@ Welcome to my profile! </h1> <hr>
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=guilhermeberson&repo=guilhermeberson&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=karontyy&repo=karontyy&countColorcountColor)
 
 ### Languages & Tools 🛠  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;![JS](https://img.shields.io/badge/-JS-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
@@ -18,11 +18,11 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeberson&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karontyy&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=guilhermeberson&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=karontyy&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeberson&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=karontyy&hide_border=true)
 
 ### Let's connect? 🤝
 
@@ -31,7 +31,7 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 <a href="https://www.linkedin.com/in/guilhermeberson"><img 
 src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://twitter.com/bersoncrios"><img 
+<a href="https://twitter.com/karontyy_"><img 
 src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 <a href="https://instagram.com/guilhermeberson"><img 
