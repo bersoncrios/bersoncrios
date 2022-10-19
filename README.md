@@ -38,20 +38,15 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ### Let's connect? 🤝
 
-<div align="center">
+<div> 
+  <a href="https://www.instagram.com/karonty.tech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://www.linkedin.com/in/guilhermeberson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://twitter.com/KarontyTech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/guilhermeberson"><img 
-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://twitter.com/karontyy_"><img 
-src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-
-<a href="https://instagram.com/karonty.tech"><img 
-src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
-<a href="https://medium.com/@guilhermeberson"><img 
-src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-
+ <a href="https://discord.gg/ZEHPvp7v" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 ### Analytics ⚙️
