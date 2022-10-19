@@ -32,20 +32,13 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width=45 height=45 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=45 height=45  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=45 height=45 />
-
 </div>
 
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karontyy&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=karontyy&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=karontyy&hide_border=true)
+##
 
 ### Let's connect? 🤝
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/guilhermeberson"><img 
 src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -60,3 +53,12 @@ src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&lo
 src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 
 </p>
+
+### Analytics ⚙️
+
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=karontyy&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=karontyy&hide_border=true)
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karontyy&layout=compact&count_private=true)
