@@ -1,9 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Hello Dear,&nbsp how are you ? welcome to my profile, Help yourself! </h1> <hr>
+Hello Dear,&nbsp how are you ? &nbsp welcome to my profile,&nbsp Help yourself! </h1>
+##
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
 ![](https://komarev.com/ghpvc/?username=karontyy&color=brightgreen)
+
+##
 
 ### Main languages and tools 🛠
 <div style="display: inline_block"><br>
@@ -40,14 +43,12 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 <div> 
   <a href="https://www.instagram.com/karonty.tech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
  <a href="https://www.linkedin.com/in/guilhermeberson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
  <a href="https://twitter.com/KarontyTech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
  <a href="https://discord.gg/ZEHPvp7v" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
 </div>
+
+##
 
 ### Analytics ⚙️
 
