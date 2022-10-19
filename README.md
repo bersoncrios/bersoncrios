@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Hello Dear, how are you ? welcome to my profile, Help yourself! </h1> <hr>
+Hello Dear,&nbsp how are you ? welcome to my profile, Help yourself! </h1> <hr>
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
