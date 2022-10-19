@@ -6,6 +6,7 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=karontyy&repo=karontyy&countColorcountColor)
 
 ### Main languages and tools 🛠
+<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width=75 height=75/>
@@ -17,17 +18,18 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=75 height=75 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=75 height=75  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width=75 height=75/>
+</div>
+
 
 ### Other languages and tools 🛠
+<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=75 height=75 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=75 height=75 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=75 height=75 />
-
-
-
+</div>
 
 ### Analytics ⚙️
 
