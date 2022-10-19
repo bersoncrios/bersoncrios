@@ -38,7 +38,7 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ### Let's connect? 🤝
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/guilhermeberson"><img 
 src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&lo
 <a href="https://medium.com/@guilhermeberson"><img 
 src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 
-</p>
+</div>
 
 ### Analytics ⚙️
 
