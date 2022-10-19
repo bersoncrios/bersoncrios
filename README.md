@@ -51,7 +51,12 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ##
 
+### Conheça o LORD UI
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karontyy&repo=lord)](https://github.com/karontyy/lord)
+
+
 ### Analytics ⚙️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=karontyy&count_private=true&show_icons=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=karontyy&hide_border=true)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karontyy&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karontyy&count_private=true)
