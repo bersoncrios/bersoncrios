@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Welcome to my profile! </h1> <hr>
+Hello Dear, how are you ? welcome to my profile, Help yourself! </h1> <hr>
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=karontyy&repo=karontyy&countColorcountColor)
+![](https://komarev.com/ghpvc/?username=karontyy&color=brightgreen)
 
 ### Main languages and tools 🛠
 <div style="display: inline_block"><br>
@@ -21,7 +21,8 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width=45 height=45/>
 </div>
 
-
+ ##
+ 
 ### Other languages and tools 🛠
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width=45 height=45/>
