@@ -6,7 +6,7 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=karontyy&repo=karontyy&countColorcountColor)
 
 ### Languages & Tools 🛠  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=100 height=100/>
 
 
 
