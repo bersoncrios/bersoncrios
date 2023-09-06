@@ -5,7 +5,7 @@ Hello Dear,&nbsp how are you ? &nbsp welcome to my profile,&nbsp Help yourself! 
 
 My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation.
 
-![](https://komarev.com/ghpvc/?username=bersoncrios&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=khansado&color=brightgreen)
 
 ##
 
@@ -54,11 +54,11 @@ My name is Guilherme T. Berson. I work as a Mobile Engineer at Zup IT Innovation
 
 ### Conheça o LORD UI
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bersoncrios&repo=lord)](https://github.com/karontyy/lord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khansado&repo=lord)](https://github.com/karontyy/lord)
 
 ##
 
 ### Analytics ⚙️
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=bersoncrios&count_private=true&show_icons=true&theme=tokyonight)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bersoncrios&hide_border=true&theme=tokyonight)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bersoncrios&count_private=true&theme=tokyonight)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=khansado&count_private=true&show_icons=true&theme=tokyonight)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=khansado&hide_border=true&theme=tokyonight)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khansado&count_private=true&theme=tokyonight)
