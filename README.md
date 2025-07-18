@@ -1,36 +1,29 @@
-# 👋 Olá! Eu sou o Guilherme Taveira Berson
+# 👋 Hi! I'm Guilherme Taveira Berson
 
-🎯 Desenvolvedor apaixonado por tecnologia, atualmente atuando como **Engenheiro Mobile Android/iOS Sênior** na **Zup Innovation**.
+🎯 Passionate developer currently working as a **Senior Android/iOS Mobile Engineer** at **Zup Innovation**.
 
----
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 🎓 Graduado em **Sistemas de Informação** pela **Universidade Estadual do Tocantins (UNITINS)**
-- 🎓 Pós-graduado em **Inteligência Artificial** pela **Faculdade de Minas (FACUMINAS)**
-- 🚀 Com expertise em desenvolvimento **Android (Java/Kotlin)** e **iOS (Swift)**
-- 🤖 Entusiasta e estudioso de **Inteligência Artificial**
-- 📍 Localizado no Brasil
+- 🎓 Bachelor's degree in **Information Systems** from **Universidade Estadual do Tocantins (UNITINS)**
+- 🎓 Postgraduate in **Artificial Intelligence** from **Faculdade de Minas (FACUMINAS)**
+- 🚀 Expertise in **Android development (Java/Kotlin)** and **iOS development (Swift)**
+- 🤖 AI enthusiast and lifelong learner
+- 📍 Based in Brazil
 
----
-
-## 🛠️ Tecnologias & Especialidades
+## 🛠️ Technologies & Expertise
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![IA](https://img.shields.io/badge/Inteligência_Artificial-6E40C9?style=for-the-badge&logo=ai&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge&logo=ai&logoColor=white)
 
----
-
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeberson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeberson001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bersoncrios)
 
----
-
-✨ Sempre buscando aprender, compartilhar conhecimento e criar soluções que fazem a diferença!
+✨ Always learning, sharing knowledge, and building solutions that make a difference!
